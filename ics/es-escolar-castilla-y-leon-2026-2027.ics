@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario escolar 2026-2027 Castilla y León
+X-WR-CALDESC:Vacaciones y días sin clase del curso 2026-2027 en Castilla y
+  León
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esc-castilla-y-leon-2026-09-09@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Primer día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-castilla-y-leon-2026-10-30@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Sin clase: Día del Docente
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-castilla-y-leon-2026-12-23@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270111
+SUMMARY:Vacaciones de Navidad
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-castilla-y-leon-2027-02-08@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Sin clase: Carnaval
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-castilla-y-leon-2027-02-09@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Sin clase: Carnaval
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-castilla-y-leon-2027-03-20@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270331
+SUMMARY:Vacaciones de Semana Santa
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-castilla-y-leon-2027-06-24@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Último día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+END:VCALENDAR

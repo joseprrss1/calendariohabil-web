@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario escolar 2026-2027 Cataluña
+X-WR-CALDESC:Vacaciones y días sin clase del curso 2026-2027 en Cataluña
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esc-cataluna-2026-09-08@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Primer día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-cataluna-2026-12-22@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270108
+SUMMARY:Vacaciones de Navidad
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-cataluna-2027-03-20@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270330
+SUMMARY:Vacaciones de Semana Santa
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-cataluna-2027-06-21@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Último día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+END:VCALENDAR

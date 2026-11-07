@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario fiscal del autónomo 2027
+X-WR-CALDESC:Plazos de la Agencia Tributaria para autónomos: IVA\, pagos f
+ raccionados\, retenciones\, resúmenes anuales y renta.
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fiscal-2026-12-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270101
+SUMMARY:Renuncia o revocación de módulos y del régimen simplificado de I
+ VA para 2027 (modelos 036 / 037)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2027-01-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270121
+SUMMARY:Retenciones del 4.º trimestre de 2026 (modelos 111\, 115\, 123\, 2
+ 16)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2027-01-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270202
+SUMMARY:IVA y pago fraccionado del 4.º trimestre de 2026 y resúmenes anua
+ les (modelos 303\, 130\, 131\, 349\, 390\, 190\, 180)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2027-02-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270302
+SUMMARY:Declaración anual de operaciones con terceros (modelos 347)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2027-04-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270421
+SUMMARY:IVA\, pago fraccionado y retenciones del 1.º trimestre de 2027 (mo
+ delos 303\, 130\, 131\, 111\, 115\, 349)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2027-07-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270721
+SUMMARY:IVA\, pago fraccionado y retenciones del 2.º trimestre de 2027 (mo
+ delos 303\, 130\, 131\, 111\, 115\, 349)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2027-10-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271021
+SUMMARY:IVA\, pago fraccionado y retenciones del 3.º trimestre de 2027 (mo
+ delos 303\, 130\, 131\, 111\, 115\, 349)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2027-04-07@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270701
+SUMMARY:Declaración de la renta 2026 (previsión) (modelos 100)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2028-01-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280121
+SUMMARY:Retenciones del 4.º trimestre de 2027 (modelos 111\, 115\, 123\, 2
+ 16)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-2028-01-01@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280201
+SUMMARY:IVA y pago fraccionado del 4.º trimestre de 2027 y resúmenes anua
+ les (modelos 303\, 130\, 131\, 349\, 390\, 190\, 180)
+TRANSP:TRANSPARENT
+DESCRIPTION:Plazo de la Agencia Tributaria. Fuente y más fechas en https:/
+ /calendariohabil.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario escolar 2026-2027 Comunitat Valenciana
+X-WR-CALDESC:Vacaciones y días sin clase del curso 2026-2027 en la Comunit
+ at Valenciana
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esc-comunitat-valenciana-2026-09-09@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Primer día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-comunitat-valenciana-2026-12-22@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270107
+SUMMARY:Vacaciones de Navidad
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-comunitat-valenciana-2027-03-25@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270406
+SUMMARY:Vacaciones de Pascua
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-comunitat-valenciana-2027-06-18@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Último día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+END:VCALENDAR

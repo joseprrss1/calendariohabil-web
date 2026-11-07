@@ -1,0 +1,58 @@
+# Calendario Hábil
+
+> Festivos laborales oficiales de España (por comunidad autónoma, isla y municipio), México, Colombia y Perú, calendario escolar SEP, con calculadoras de días hábiles, plazos administrativos y beneficios laborales de cada país. Cada fecha procede del BOE, de los boletines autonómicos o de la ley o el boletín oficial de cada país.
+
+## Datos principales
+- [Festivos 2027 en España por comunidades](https://calendariohabil.com/es/festivos-2027/): 9 festivos comunes y los propios de cada comunidad (BOE-A-2026-21254).
+- [Estado de las fiestas locales 2027](https://calendariohabil.com/es/festivos-locales-2027/): qué comunidades las han publicado.
+- [Puentes 2027](https://calendariohabil.com/es/puentes-2027/)
+- [Calendario escolar 2026-2027 por comunidades](https://calendariohabil.com/es/calendario-escolar-2026-2027/): inicio y fin de clases, vacaciones y días no lectivos según la norma de cada comunidad (en Andalucía, por provincia).
+- [Días de descanso obligatorio 2027 en México](https://calendariohabil.com/mx/dias-de-descanso-obligatorio-2027/)
+- [Calendario escolar SEP 2026-2027](https://calendariohabil.com/mx/calendario-escolar-sep-2026-2027/): clases del 31 de agosto de 2026 al 9 de julio de 2027 (Acuerdo 07/07/26).
+- [¿Hay clases mañana? (SEP)](https://calendariohabil.com/mx/hay-clases-manana/)
+- [Festivos 2027 en Colombia](https://calendariohabil.com/co/festivos-2027/): 19 festivos con la Ley Emiliani y la Ley 2578 de 2026.
+- [Puentes festivos 2027 en Colombia](https://calendariohabil.com/co/puentes-festivos-2027/)
+- [Feriados 2027 en el Perú](https://calendariohabil.com/pe/feriados-2027/): 16 feriados nacionales (Decreto Legislativo 713).
+- [Datos en JSON](https://calendariohabil.com/assets/data.json)
+
+## Herramientas
+- [Calculadora de plazos administrativos (Ley 39/2015)](https://calendariohabil.com/es/calculadora-plazos-administrativos/)
+- [Calcular días hábiles](https://calendariohabil.com/calcular-dias-habiles/)
+- [Calculadora de permisos retribuidos (art. 37.3 del Estatuto de los Trabajadores)](https://calendariohabil.com/es/permisos-retribuidos/)
+- [Horas extra con la jornada de 46 horas en México](https://calendariohabil.com/mx/calculadora-horas-extra-2027/)
+- [Planificador de vacaciones](https://calendariohabil.com/es/planificador-vacaciones/)
+- [Calculadora de plazos judiciales (LOPJ, LEC, LJCA, LRJS)](https://calendariohabil.com/es/calculadora-plazos-judiciales/)
+- [Calendario fiscal del autónomo 2027](https://calendariohabil.com/es/calendario-fiscal-autonomos-2027/)
+- [Declaración de la renta: fechas y plazo de devolución](https://calendariohabil.com/es/declaracion-renta-fechas-devolucion/)
+- [Comercios abiertos en festivos 2027](https://calendariohabil.com/es/apertura-comercios-festivos-2027/)
+- [Black Friday 2026 y rebajas de 2027](https://calendariohabil.com/es/black-friday-2026/)
+- [Plazo para devolver una compra (desistimiento y garantía)](https://calendariohabil.com/es/plazo-devolucion-compras/)
+- [Calculadora de vacaciones (días pendientes y finiquito)](https://calendariohabil.com/es/calculadora-vacaciones/)
+- [Días laborables 2027 y jornada anual por comunidad y municipio](https://calendariohabil.com/es/dias-laborables-2027/)
+- [Calculadora del permiso por nacimiento (19 semanas, RDL 9/2025)](https://calendariohabil.com/es/calculadora-permiso-nacimiento/)
+- [Calculadora de lactancia acumulada (art. 37.4 ET)](https://calendariohabil.com/es/calculadora-lactancia-acumulada/)
+- [Calculadora de finiquito](https://calendariohabil.com/es/calculadora-finiquito/)
+- [Calculadora de indemnización por despido](https://calendariohabil.com/es/calculadora-indemnizacion-despido/)
+- [Calculadora de duración del paro (art. 269 LGSS)](https://calendariohabil.com/es/calculadora-paro/)
+- [Calculadora de la edad de jubilación (LGSS, DT 7.ª)](https://calendariohabil.com/es/calculadora-jubilacion/)
+- [Calculadora de baja médica (incapacidad temporal)](https://calendariohabil.com/es/calculadora-baja-medica/)
+- [Cuándo se cobra el paro (SEPE y cada banco)](https://calendariohabil.com/es/cuando-se-cobra-el-paro/)
+- [Cuándo se cobran las pensiones (Seguridad Social y cada banco)](https://calendariohabil.com/es/cuando-se-cobran-las-pensiones/)
+- [Cuándo se cobra el ingreso mínimo vital](https://calendariohabil.com/es/cuando-se-cobra-el-ingreso-minimo-vital/)
+- [Calculadora de aguinaldo 2026 (México)](https://calendariohabil.com/mx/calculadora-aguinaldo/)
+- [Calculadora de prima de servicios 2026 (Colombia)](https://calendariohabil.com/co/calculadora-prima-de-servicios/)
+- [Calculadora de CTS (Perú)](https://calendariohabil.com/pe/calculadora-cts/)
+- [Calculadora de gratificación con bonificación del 9 % (Perú)](https://calendariohabil.com/pe/calculadora-gratificacion/)
+- [Calculadora de vacaciones (Perú)](https://calendariohabil.com/pe/calculadora-vacaciones/)
+- [Semana Santa 2027: festivos y vacaciones escolares por comunidad](https://calendariohabil.com/es/semana-santa-2027/)
+- [Cambio de hora 2027 y calendario hasta 2031](https://calendariohabil.com/es/cambio-de-hora-2027/)
+- [Vacaciones de Navidad 2026 por comunidad](https://calendariohabil.com/es/vacaciones-navidad-2026/)
+- [Fechas de la PAU 2027](https://calendariohabil.com/es/fechas-pau-2027/)
+- [Oposiciones docentes 2027](https://calendariohabil.com/es/oposiciones-docentes-2027/)
+- [Becas MEC 2027-2028: plazo y cuantías](https://calendariohabil.com/es/becas-mec-2027-2028/)
+- [Calendario escolar 2027-2028](https://calendariohabil.com/es/calendario-escolar-2027-2028/)
+- [Días de libre disposición de los docentes por comunidad](https://calendariohabil.com/es/dias-libre-disposicion-docentes/)
+
+## Metodología
+- [Metodología y fuentes](https://calendariohabil.com/metodologia-y-fuentes/)
+Última revisión de datos: 6 de noviembre de 2026.

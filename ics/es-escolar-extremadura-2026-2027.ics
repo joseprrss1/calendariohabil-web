@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario escolar 2026-2027 Extremadura
+X-WR-CALDESC:Vacaciones y días sin clase del curso 2026-2027 en Extremadur
+ a
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esc-extremadura-2026-09-10@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Primer día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-extremadura-2026-12-23@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270108
+SUMMARY:Vacaciones de Navidad
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-extremadura-2027-01-29@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Sin clase: Día del Docente
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-extremadura-2027-02-08@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Sin clase: Carnaval
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-extremadura-2027-02-09@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Sin clase: Carnaval
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-extremadura-2027-03-22@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270330
+SUMMARY:Vacaciones de Semana Santa
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-extremadura-2027-06-18@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Último día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+END:VCALENDAR

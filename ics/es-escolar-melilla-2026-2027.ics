@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario escolar 2026-2027 Melilla
+X-WR-CALDESC:Vacaciones y días sin clase del curso 2026-2027 en Melilla
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esc-melilla-2026-09-08@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Sin clase: Virgen de la Victoria
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2026-09-09@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Primer día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2026-09-17@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Sin clase: Día de Melilla
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2026-09-21@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Sin clase: Día de libre disposición
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2026-11-02@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sin clase: Día de libre disposición
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2026-12-23@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270108
+SUMMARY:Vacaciones de Navidad
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2027-01-08@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Sin clase: Día de libre disposición
+TRANSP:TRANSPARENT
+DESCRIPTION:Consejo Técnico Escolar: no hay clases. Fuente y más fechas e
+ n https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2027-03-22@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270327
+SUMMARY:Vacaciones de Semana Santa
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2027-03-29@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270403
+SUMMARY:Días de libre disposición
+TRANSP:TRANSPARENT
+DESCRIPTION:Vacaciones escolares. Fuente y más fechas en https://calendari
+ ohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-melilla-2027-06-23@calendariohabil.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Último día de clase
+TRANSP:TRANSPARENT
+DESCRIPTION:Calendario escolar. Fuente y más fechas en https://calendarioh
+ abil.com
+END:VEVENT
+END:VCALENDAR
