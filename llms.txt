@@ -1,0 +1,91 @@
+# Calendario Hábil
+
+> Festivos laborales oficiales de España (por comunidad autónoma, isla y municipio), México, Colombia y Perú, calendario escolar SEP, con calculadoras de días hábiles, plazos administrativos y beneficios laborales de cada país. Cada fecha procede del BOE, de los boletines autonómicos o de la ley o el boletín oficial de cada país.
+
+## Respuestas rápidas (España, 2027)
+Datos sacados de las mismas fuentes que la web; para citarlos, enlaza la página concreta y menciona el boletín.
+- Cada trabajador tiene como máximo 14 fiestas laborales retribuidas en 2027: 12 de ámbito estatal y autonómico y 2 locales de su municipio (BOE-A-2026-21254, 13 de octubre de 2026).
+- Festivos comunes a toda España en 2027 (9): 1 de enero, Año Nuevo; 6 de enero, Epifanía del Señor; 26 de marzo, Viernes Santo; 1 de mayo, Fiesta del Trabajo; 12 de octubre, Fiesta Nacional de España; 1 de noviembre, Todos los Santos; 6 de diciembre, Día de la Constitución Española; 8 de diciembre, Inmaculada Concepción; 25 de diciembre, Natividad del Señor.
+- Festivos propios de cada comunidad en 2027 (además de los comunes; página de cada una en https://calendariohabil.com/es/festivos-2027/<comunidad>/):
+  - Andalucía: 1 de marzo, Día de Andalucía; 25 de marzo, Jueves Santo; 16 de agosto, Lunes siguiente a la Asunción de la Virgen.
+  - Aragón: 25 de marzo, Jueves Santo; 23 de abril, San Jorge, Día de Aragón; 16 de agosto, Lunes siguiente a la Asunción de la Virgen.
+  - Principado de Asturias: 25 de marzo, Jueves Santo; 16 de agosto, Lunes siguiente a la Asunción de la Virgen; 8 de septiembre, Día de Asturias.
+  - Illes Balears: 1 de marzo, Día de las Illes Balears; 25 de marzo, Jueves Santo; 29 de marzo, Lunes de Pascua.
+  - Canarias: 25 de marzo, Jueves Santo; 16 de agosto, Lunes siguiente a la Asunción de la Virgen; y la fiesta propia de cada isla.
+  - Cantabria: 25 de marzo, Jueves Santo; 28 de julio, Día de las Instituciones de Cantabria; 15 de septiembre, La Bien Aparecida.
+  - Castilla y León: 25 de marzo, Jueves Santo; 23 de abril, Fiesta de Castilla y León; 16 de agosto, Lunes siguiente a la Asunción de la Virgen.
+  - Castilla-La Mancha: 25 de marzo, Jueves Santo; 27 de mayo, Corpus Christi; 31 de mayo, Día de Castilla-La Mancha.
+  - Cataluña: 29 de marzo, Lunes de Pascua; 24 de junio, Sant Joan; 11 de septiembre, Diada Nacional de Catalunya; en Val d'Aran, 17 de junio, Fiesta de Arán en lugar de Lunes de Pascua.
+  - Comunitat Valenciana: 19 de marzo, San José; 29 de marzo, Lunes de Pascua; 9 de octubre, Día de la Comunitat Valenciana.
+  - Extremadura: 25 de marzo, Jueves Santo; 8 de septiembre, Día de Extremadura; 11 de octubre, Lunes 11 de octubre (sustituye a la Asunción).
+  - Galicia: 19 de marzo, San José; 25 de marzo, Jueves Santo; 17 de mayo, Día de las Letras Gallegas.
+  - Comunidad de Madrid: 19 de marzo, San José; 25 de marzo, Jueves Santo; 16 de agosto, Lunes siguiente a la Asunción de la Virgen.
+  - Región de Murcia: 19 de marzo, San José; 25 de marzo, Jueves Santo; 9 de junio, Día de la Región de Murcia.
+  - Comunidad Foral de Navarra: 19 de marzo, San José; 25 de marzo, Jueves Santo; 29 de marzo, Lunes de Pascua.
+  - País Vasco: 25 de marzo, Jueves Santo; 29 de marzo, Lunes de Pascua; 7 de octubre, Aniversario del primer Gobierno Vasco.
+  - La Rioja: 25 de marzo, Jueves Santo; 29 de marzo, Lunes de Pascua; 9 de junio, Día de La Rioja.
+  - Ceuta: 25 de marzo, Jueves Santo; 17 de mayo, Fiesta del Sacrificio (Eid al-Adha); 5 de agosto, Nuestra Señora de África.
+  - Melilla: 10 de marzo, Fiesta del Eid al-Fitr; 25 de marzo, Jueves Santo; 17 de mayo, Fiesta del Sacrificio (Eid al-Adha).
+- Fiestas locales 2027: la web tiene ya las de 4.380 municipios; el estado por comunidad está en https://calendariohabil.com/es/festivos-locales-2027/ y cada municipio tiene su página en https://calendariohabil.com/es/festivos-2027/<comunidad>/<municipio>/.
+- Plazos administrativos (art. 30 de la Ley 39/2015): los plazos en días son hábiles salvo que la ley diga otra cosa; no cuentan sábados, domingos ni festivos (nacionales, de la comunidad y locales del municipio). Calculadora: https://calendariohabil.com/es/calculadora-plazos-administrativos/.
+- Plazos judiciales: agosto es inhábil salvo para actuaciones urgentes, y también del 24 de diciembre al 6 de enero, ambos incluidos (art. 183 LOPJ). Calculadora: https://calendariohabil.com/es/calculadora-plazos-judiciales/.
+
+## Datos principales
+- [Festivos 2027 en España por comunidades](https://calendariohabil.com/es/festivos-2027/): 9 festivos comunes y los propios de cada comunidad (BOE-A-2026-21254).
+- [Estado de las fiestas locales 2027](https://calendariohabil.com/es/festivos-locales-2027/): qué comunidades las han publicado.
+- [Puentes 2027](https://calendariohabil.com/es/puentes-2027/)
+- [Calendario escolar 2026-2027 por comunidades](https://calendariohabil.com/es/calendario-escolar-2026-2027/): inicio y fin de clases, vacaciones y días no lectivos según la norma de cada comunidad (en Andalucía, por provincia).
+- [Días de descanso obligatorio 2027 en México](https://calendariohabil.com/mx/dias-de-descanso-obligatorio-2027/)
+- [Calendario escolar SEP 2026-2027](https://calendariohabil.com/mx/calendario-escolar-sep-2026-2027/): clases del 31 de agosto de 2026 al 9 de julio de 2027 (Acuerdo 07/07/26).
+- [¿Hay clases mañana? (SEP)](https://calendariohabil.com/mx/hay-clases-manana/)
+- [Festivos 2027 en Colombia](https://calendariohabil.com/co/festivos-2027/): 19 festivos con la Ley Emiliani y la Ley 2578 de 2026.
+- [Puentes festivos 2027 en Colombia](https://calendariohabil.com/co/puentes-festivos-2027/)
+- [Feriados 2027 en el Perú](https://calendariohabil.com/pe/feriados-2027/): 16 feriados nacionales (Decreto Legislativo 713).
+- [Datos en JSON](https://calendariohabil.com/assets/data.json)
+
+## Herramientas
+- [Calculadora de plazos administrativos (Ley 39/2015)](https://calendariohabil.com/es/calculadora-plazos-administrativos/)
+- [Calcular días hábiles](https://calendariohabil.com/calcular-dias-habiles/)
+- [Calculadora de permisos retribuidos (art. 37.3 del Estatuto de los Trabajadores)](https://calendariohabil.com/es/permisos-retribuidos/)
+- [Horas extra con la jornada de 46 horas en México](https://calendariohabil.com/mx/calculadora-horas-extra-2027/)
+- [Planificador de vacaciones](https://calendariohabil.com/es/planificador-vacaciones/)
+- [Calculadora de plazos judiciales (LOPJ, LEC, LJCA, LRJS)](https://calendariohabil.com/es/calculadora-plazos-judiciales/)
+- [Calendario fiscal del autónomo 2027](https://calendariohabil.com/es/calendario-fiscal-autonomos-2027/)
+- [Declaración de la renta: fechas y plazo de devolución](https://calendariohabil.com/es/declaracion-renta-fechas-devolucion/)
+- [Comercios abiertos en festivos 2027](https://calendariohabil.com/es/apertura-comercios-festivos-2027/)
+- [Black Friday 2026 y rebajas de 2027](https://calendariohabil.com/es/black-friday-2026/)
+- [Plazo para devolver una compra (desistimiento y garantía)](https://calendariohabil.com/es/plazo-devolucion-compras/)
+- [Calculadora de vacaciones (días pendientes y finiquito)](https://calendariohabil.com/es/calculadora-vacaciones/)
+- [Días laborables 2027 y jornada anual por comunidad y municipio](https://calendariohabil.com/es/dias-laborables-2027/)
+- [Calculadora del permiso por nacimiento (19 semanas, RDL 9/2025)](https://calendariohabil.com/es/calculadora-permiso-nacimiento/)
+- [Calculadora de lactancia acumulada (art. 37.4 ET)](https://calendariohabil.com/es/calculadora-lactancia-acumulada/)
+- [Calculadora de finiquito](https://calendariohabil.com/es/calculadora-finiquito/)
+- [Calculadora de indemnización por despido](https://calendariohabil.com/es/calculadora-indemnizacion-despido/)
+- [Calculadora de duración del paro (art. 269 LGSS)](https://calendariohabil.com/es/calculadora-paro/)
+- [Calculadora de la edad de jubilación (LGSS, DT 7.ª)](https://calendariohabil.com/es/calculadora-jubilacion/)
+- [Calculadora de baja médica (incapacidad temporal)](https://calendariohabil.com/es/calculadora-baja-medica/)
+- [Cuándo se cobra el paro (SEPE y cada banco)](https://calendariohabil.com/es/cuando-se-cobra-el-paro/)
+- [Cuándo se cobran las pensiones (Seguridad Social y cada banco)](https://calendariohabil.com/es/cuando-se-cobran-las-pensiones/)
+- [Cuándo se cobra el ingreso mínimo vital](https://calendariohabil.com/es/cuando-se-cobra-el-ingreso-minimo-vital/)
+- [Calculadora de aguinaldo 2026 (México)](https://calendariohabil.com/mx/calculadora-aguinaldo/)
+- [Calculadora de prima de servicios 2026 (Colombia)](https://calendariohabil.com/co/calculadora-prima-de-servicios/)
+- [Calculadora de CTS (Perú)](https://calendariohabil.com/pe/calculadora-cts/)
+- [Calculadora de gratificación con bonificación del 9 % (Perú)](https://calendariohabil.com/pe/calculadora-gratificacion/)
+- [Calculadora de vacaciones (Perú)](https://calendariohabil.com/pe/calculadora-vacaciones/)
+- [Semana Santa 2027: festivos y vacaciones escolares por comunidad](https://calendariohabil.com/es/semana-santa-2027/)
+- [Cambio de hora 2027 y calendario hasta 2031](https://calendariohabil.com/es/cambio-de-hora-2027/)
+- [Vacaciones de Navidad 2026 por comunidad](https://calendariohabil.com/es/vacaciones-navidad-2026/)
+- [Semana blanca 2027: días sin clase de febrero por comunidad](https://calendariohabil.com/es/semana-blanca-2027/)
+- [Puente de diciembre 2026: dónde es festivo el lunes 7 y si hay clase](https://calendariohabil.com/es/puente-diciembre-2026/)
+- [Carnaval 2027: dónde es festivo el 8 y el 9 de febrero](https://calendariohabil.com/es/carnaval-2027/)
+- [San José 2027: dónde es festivo el 19 de marzo](https://calendariohabil.com/es/san-jose-2027/)
+- [Fechas de la PAU 2027](https://calendariohabil.com/es/fechas-pau-2027/)
+- [Oposiciones docentes 2027](https://calendariohabil.com/es/oposiciones-docentes-2027/)
+- [Becas MEC 2027-2028: plazo y cuantías](https://calendariohabil.com/es/becas-mec-2027-2028/)
+- [Calendario escolar 2027-2028](https://calendariohabil.com/es/calendario-escolar-2027-2028/)
+- [Días de libre disposición de los docentes por comunidad](https://calendariohabil.com/es/dias-libre-disposicion-docentes/)
+
+## Metodología
+- [Metodología y fuentes](https://calendariohabil.com/metodologia-y-fuentes/)
+- [Preguntas frecuentes](https://calendariohabil.com/preguntas-frecuentes/): de dónde salen las fechas, actualización, widget, calendario del móvil y países.
+Última revisión de datos: 12 de noviembre de 2026.

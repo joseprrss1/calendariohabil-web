@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Festivos 2027 San Martín\, Santa Bárbara y Blimea
+X-WR-CALDESC:Festivos laborales 2027 en San Martín\, Santa Bárbara y Blim
+ ea
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 1-01@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Año Nuevo
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 1-06@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Epifanía del Señor
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 2-09@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Martes de Carnaval
+TRANSP:TRANSPARENT
+DESCRIPTION:Local. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 3-25@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Jueves Santo
+TRANSP:TRANSPARENT
+DESCRIPTION:Autonómico. Fuente y más fechas en https://calendariohabil.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 3-26@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Viernes Santo
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 5-01@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Fiesta del Trabajo
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 8-16@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Lunes siguiente a la Asunción de la Virgen
+TRANSP:TRANSPARENT
+DESCRIPTION:Autonómico. Fuente y más fechas en https://calendariohabil.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-0
+ 9-08@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Día de Asturias
+TRANSP:TRANSPARENT
+DESCRIPTION:Autonómico. Fuente y más fechas en https://calendariohabil.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-1
+ 0-12@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Fiesta Nacional de España
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-1
+ 1-01@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Todos los Santos
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-1
+ 1-11@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:San Martín y Fiesta de los Nabos
+TRANSP:TRANSPARENT
+DESCRIPTION:Local. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-1
+ 2-06@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+SUMMARY:Día de la Constitución Española
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-1
+ 2-08@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Inmaculada Concepción
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:es-san-martin-del-rey-aurelio--san-martin-santa-barbara-y-blimea-2027-1
+ 2-25@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Natividad del Señor
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+END:VCALENDAR
