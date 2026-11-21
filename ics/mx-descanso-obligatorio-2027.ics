@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendariohabil.com//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Días de descanso obligatorio México 2027
+X-WR-CALDESC:Días de descanso obligatorio 2027 (art. 74 LFT)
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:mx-2027-01-01@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Año Nuevo
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-2027-02-01@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Día de la Constitución (primer lunes de febrero)
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-2027-03-15@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Natalicio de Benito Juárez (tercer lunes de marzo)
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-2027-05-01@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Día del Trabajo
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-2027-06-06@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Jornada electoral federal y local ordinaria
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-2027-09-16@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Día de la Independencia
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-2027-11-15@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Día de la Revolución (tercer lunes de noviembre)
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+BEGIN:VEVENT
+UID:mx-2027-12-25@calendariohabil.com
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Navidad
+TRANSP:TRANSPARENT
+DESCRIPTION:Nacional. Fuente y más fechas en https://calendariohabil.com
+END:VEVENT
+END:VCALENDAR
