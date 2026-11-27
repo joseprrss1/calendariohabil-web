@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /embed/
+Disallow: /ics/
+
+Sitemap: https://calendariohabil.com/sitemap.xml
